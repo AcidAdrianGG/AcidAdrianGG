@@ -1,4 +1,8 @@
 ## Hi there 👋
+This is my working account.
+- 🔭 I’m currently working on [@acidTango](https://github.com/acidtango)
+- 🌱 I’m currently learning: [Typescript, Python]
+- 📫 How to reach me: [linktree.ee/aglezg](https://linktr.ee/aglezg)
 
 <!--
 **AcidAdrianGG/AcidAdrianGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
